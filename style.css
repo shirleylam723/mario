@@ -1,0 +1,97 @@
+.mainContainer {
+    display:flex;
+    flex-direction:column;
+    justify-content: space-around;
+    align-items: center; 
+}
+.containerOne {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: 12px solid #B22222;
+    border-radius: 10px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    background-color: burlywood;
+}
+.bobombCard{
+    overflow: hidden;
+    border: 1px solid rgb(12, 238, 31);
+    border-radius: 0 6px 6px;
+}
+.bobombCard-head{
+    margin: 15px;
+    padding: .3rem 1rem;
+    background-color: greenyellow;
+}
+.bobombCard-body {
+    padding: .3rem 1rem .3rem calc(1rem-4px);
+    border-left: 4px solid green;
+    background-color: gray;
+}
+.bobombNoInput{
+    background-color: hotpink;
+}
+
+.containerTwo {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: 12px solid #B22222;
+    border-radius: 10px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    background-color: burlywood;
+}
+.cheepCard{
+    overflow: hidden;
+    border: 1px solid rgb(12, 238, 31);
+    border-radius: 0 6px 6px;
+}
+.cheepCard-head{
+    margin: 15px;
+    padding: .3rem 1rem;
+    background-color: greenyellow;
+}
+.cheepCard-body {
+    padding: .3rem 1rem .3rem calc(1rem-4px);
+    border-left: 4px solid green;
+    background-color: gray;
+}
+.cheepNoInput{
+    background-color: hotpink;
+}
+.containerThree {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: 12px solid #B22222;
+    border-radius: 10px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    background-color: burlywood;
+}
+.goombaCard{
+    overflow: hidden;
+    border: 1px solid rgb(12, 238, 31);
+    border-radius: 0 6px 6px;
+}
+.goombaCard-head{
+    margin: 15px;
+    padding: .3rem 1rem;
+    background-color: greenyellow;
+}
+.goombaCard-body {
+    padding: .3rem 1rem .3rem calc(1rem-4px);
+    border-left: 4px solid green;
+    background-color: gray;
+}
+.goombaNoInput{
+    background-color: hotpink;
+}
+.footer {
+    width:100%;
+    align-items: center;
+    background-color:aquamarine;
+    padding: 60pv 0px;
+} 
